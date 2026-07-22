@@ -1,0 +1,10 @@
+{
+  "id": "248-note-recommender",
+  "name": "248 Note Recommender",
+  "version": "0.1.0",
+  "minAppVersion": "1.0.0",
+  "description": "Recommend the most relevant next notes from the current note using local, explainable heuristics.",
+  "author": "248@post.cz",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
